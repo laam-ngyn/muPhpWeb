@@ -1,3 +1,4 @@
+#Đây là web máy tính đơn giản.
 <!DOCTYPE html>
 <html>
     <body>
